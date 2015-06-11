@@ -7,6 +7,9 @@ test('invalid', function() {
     };
 
     invalid('');
+    invalid('122E8zkir1ZD6qmotAt7tM8sr3RK18UPux');
+    invalid('122E8zkir1ZD6qmotAt7tM8sr3RK18UPux', 'prod');
+
     invalid('mzBc4XEFSdzCDcTxAgf6EZXgsZWpztRhe');
     invalid('mzBc4XEFSdzCDcTxAgf6EZXgsZWpztRhef', 'prod');
 

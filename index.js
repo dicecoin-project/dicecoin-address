@@ -6,8 +6,8 @@ var crypto = require('crypto');
 var base58 = require('./base58');
 
 var address_types = {
-    prod: '00',
-    testnet: '6f'
+    prod: '7d',
+    testnet: '7f'
 };
 
 var p2sh_types = {

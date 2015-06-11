@@ -1,12 +1,12 @@
 {
-  "author": "Roman Shtylman <shtylman@gmail.com>",
-  "name": "bitcoin-address",
-  "description": "bitcoin address verification and other related functions",
+  "author": "Jamie Scott",
+  "name": "startcoin-address",
+  "description": "startcoin address verification and other related functions",
   "version": "0.3.0",
-  "homepage": "https://github.com/defunctzombie/bitcoin-address",
+  "homepage": "https://github.com/startcoin-project/startcoin-address",
   "repository": {
     "type": "git",
-    "url": "git://github.com/defunctzombie/bitcoin-address.git"
+    "url": "git://github.com/startcoin-project/startcoin-address.git"
   },
   "scripts": {
     "test": "mocha"
