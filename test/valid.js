@@ -6,9 +6,9 @@ test('valid', function() {
         assert.ok(address.validate(addr, type));
     };
 
-    validate('sN6AfLiLrdEa5WaGGEuihu1skP76Xgp5Lh');
-    validate('sZAAfemxiUp8VvagRcJUD7G84Xus3vwFEq', 'prod');
-    validate('tQnt1DSjgAnVB3ZKECrAKUjmbhcUbUkpm7', 'testnet');
+    validate('DN6AfLiLrdEa5WaGGEuihu1skP76Xgp5Lh');
+    validate('DZAAfemxiUp8VvagRcJUD7G84Xus3vwFEq', 'prod');
+    validate('TQnt1DSjgAnVB3ZKECrAKUjmbhcUbUkpm7', 'testnet');
 
 
 

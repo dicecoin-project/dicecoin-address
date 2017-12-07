@@ -1,12 +1,12 @@
 {
   "author": "Jamie Scott",
-  "name": "startcoin-address",
-  "description": "startcoin address verification and other related functions",
+  "name": "dicecoin-address",
+  "description": "dicecoin address verification and other related functions",
   "version": "0.3.0",
-  "homepage": "https://github.com/startcoin-project/startcoin-address",
+  "homepage": "https://github.com/dicecoin-project/dicecoin-address",
   "repository": {
     "type": "git",
-    "url": "git://github.com/startcoin-project/startcoin-address.git"
+    "url": "git://github.com/dicecoin-project/dicecoin-address.git"
   },
   "scripts": {
     "test": "mocha"

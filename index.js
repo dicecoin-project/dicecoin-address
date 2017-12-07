@@ -6,7 +6,7 @@ var crypto = require('crypto');
 var base58 = require('./base58');
 
 var address_types = {
-    prod: '7d',
+    prod: '1E',
     testnet: '7f'
 };
 
